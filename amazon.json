@@ -19,7 +19,7 @@
     "features": [
       "Radioactive"
     ],
-    "image" : "peach-mango.svg"
+    "image" : "uranium-ore.jpg"
   },
   
   {
@@ -29,7 +29,7 @@
     "features": [
       "A series of big-budget, narratively lackluster sequels not included."
     ],
-    "image" : "strawberry-sprinkle.svg"
+    "image" : "godzilla.jpg"
     }
   ]
 }
