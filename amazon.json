@@ -1,35 +1,42 @@
 {
-"companyName" : "3 Craziest Things You Can Buy on Amazon.",
+"companyName" : "I Scream Inc.",
 "headOffice" : "South Pole, Anatarctica",
 "established" : 2001, 
 "active" : true,
 "topFlavours" : [
   {
-    "name" : "1,500 live ladybugs", 
-    "price" : "$3.05",
-    "desc" : "1,500 crawling, flying somethings for the bargain price of a latte.", 
-    "features" : [
-      "Just funny stuff"
+    "name" : "Monstrous Mint", 
+    "calories" : 800,
+    "type" : "ice cream", 
+    "ingredients" : [
+      "peppermint cream", 
+      "dark chocolate chips", 
+      "vanilla" 
     ],
     "image": "chocolate-mint.svg"
   },
   
   {
-     "name" : "Uranium ore", 
-    "price" : "$39.95",
-    "desc" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks.", 
-    "features": [
-      "Radioactive"
+    "name" : "Perfect Peach Mango", 
+    "calories" : 560,
+    "type" : "sorbet",
+    "ingredients" : [
+      "peach puree", "mango", "honey"
     ],
     "image" : "peach-mango.svg"
   },
   
   {
-    "name" : "A Godzilla garden gnome",
-    "price" : "$24.99",
-    "desc" : "Let those pesky, roving neighborhood gnomes know where they're not welcome.", 
-    "features": [
-      "A series of big-budget, narratively lackluster sequels not included."
+    "name" : "Stupendous Strawberry",
+    "calories" : 1400,
+    "type" : "frozen yogurt",
+    "ingredients" : [
+      "strawberries", 
+      "goats milk", 
+      "wheat grass", 
+      "chocolate",
+      "blue cheese",
+      "sprinkles"
     ],
     "image" : "strawberry-sprinkle.svg"
     }
