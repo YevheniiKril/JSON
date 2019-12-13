@@ -1,0 +1,35 @@
+{
+"companyName" : "3 Craziest Things You Can Buy on Amazon.",
+"active" : true,
+"topFlavours" : [
+  {
+    "name" : "1,500 live ladybugs", 
+    "price" : "$3.05",
+    "desc" : "1,500 crawling, flying somethings for the bargain price of a latte.", 
+    "features" : [
+      "Just funny stuff"
+    ],
+    "image": "chocolate-mint.svg"
+  },
+  
+  {
+     "name" : "Uranium ore", 
+    "price" : "$39.95",
+    "desc" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks.", 
+    "features": [
+      "Radioactive"
+    ],
+    "image" : "peach-mango.svg"
+  },
+  
+  {
+    "name" : "A Godzilla garden gnome",
+    "price" : "$24.99",
+    "desc" : "Let those pesky, roving neighborhood gnomes know where they're not welcome.", 
+    "features": [
+      "A series of big-budget, narratively lackluster sequels not included."
+    ],
+    "image" : "strawberry-sprinkle.svg"
+    }
+  ]
+}
